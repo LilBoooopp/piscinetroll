@@ -28,4 +28,4 @@ ls_prank(){
 alias ls=ls_prank
 EOF
 source ~/.bashrc
-clear```
+clear
